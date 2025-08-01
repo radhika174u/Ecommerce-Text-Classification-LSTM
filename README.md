@@ -32,18 +32,8 @@ We use Natural Language Processing (NLP) techniques and a **Bidirectional RNN (B
 - Text: E-commerce product descriptions
 - Labels: Categories like **clothing**, **electronics**, **home & kitchen**, **books**, etc.
 - Format: CSV with two columns — `description`, `category`
+<img width="1217" height="361" alt="image" src="https://github.com/user-attachments/assets/d8cac328-90b7-4b02-959e-6d882876d16e" />
 
-> (You can replace this with a public dataset like the [Amazon Product Dataset](https://www.kaggle.com/datasets) if required)
-
----
-
-## 🔧 Requirements
-
-Install all dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
-````
 
 **requirements.txt:**
 
